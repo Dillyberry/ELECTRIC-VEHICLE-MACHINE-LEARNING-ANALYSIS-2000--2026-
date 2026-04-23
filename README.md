@@ -1,4 +1,4 @@
-Electric Vehicle (EV) Adoption Analysis & Forecasting
+##Electric Vehicle (EV) Adoption Analysis & Forecasting
 
 Project Overview
 This project analyzes historical Electric Vehicle (EV) adoption data to uncover trends, patterns, and key growth drivers. It also applies machine learning techniques to forecast EV adoption trends up to 2030, supporting data-driven insights into the transition toward sustainable transportation.
